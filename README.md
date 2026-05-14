@@ -1,2 +1,0 @@
-# mapletimers
-util for maplesstoory
